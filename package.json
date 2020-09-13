@@ -3,17 +3,17 @@
   "description": "nothing yet",
   "version": "1.2.2",
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "^3.0.2"
   },
   "engines": {
     "node": ">= 8.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.13.0",
     "@edenjs/eslint-config-eden": "^2.0.14",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6"
   }
 }

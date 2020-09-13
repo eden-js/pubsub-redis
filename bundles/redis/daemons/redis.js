@@ -8,7 +8,8 @@ const pubsub = require('redis/pubsub/redis');
 /**
  * Build riot dameon class
  *
- * @priority 10000
+ * @cluster  all
+ * @priority 999999
  */
 class RiotDaemon extends Daemon {
   /**
