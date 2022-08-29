@@ -3,7 +3,7 @@
   "description": "nothing yet",
   "version": "1.2.2",
   "dependencies": {
-    "redis": "^3.0.2"
+    "redis": "^4.3.0"
   },
   "engines": {
     "node": ">= 8.0.0"
